@@ -13,9 +13,39 @@
 - enter books
 - save book
 
+
+## 🌺Project Structure
+```txt
+personal_book_manager/
+│   .env.example
+│   .gitignore
+│   books.py
+│   main.py
+│   README.md
+│   requirements.txt
+├───pics_gifs
+│       Animation.gif
+│       pic1.png
+```
+
+|🌺Name|🌺Description|
+|---|---|
+|🌺`main.py`| its the main file that holds admin mode and all other main things|
+|🌺`books.py`|its the file that holds all the books|
+|🌺`.env.example`|it holds the not main admin password that goes like this admin_password = your_password_here|
+|🌺`requierment.txt`|it holds all the rquired things like python version|
+|🌺`.gitignore`|ignores all nit needed files|
+|🌺`pics_gifs`| holds all pics and gifs
+|🌺`Animation.gif`|holds the gif|
+|🌺`pic1.png`|holds the picture|
+|🌺`README.md`|is the file your looking at it gives information about this project|
+
 ## 🌺Requierments
 - python
 - python-dotenv
+
+
+
 
 ## 🌺Installation
 *you need to install requierments package.*
@@ -47,5 +77,7 @@ python python_version main.py
 ![🌺Personal Book Manager pic🌺](pics_gifs\pic1.png)
 
 
-## Demo
+## 🌺Demo
 ![🌺Personal Book Manager gif🌺](pics_gifs\Animation.gif)
+
+
