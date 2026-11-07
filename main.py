@@ -22,9 +22,13 @@ amount = int(input("how many books do you want?: "))
 book = load_books()
 
 
-for i in range (amount):
-    how_many_books = input("enter the book you want: ")
-    book.append(how_many_books)
+for i in range(amount):
+    book_name = input("🌺 enter a task: ")
+    priority = input("🌺 enter a priority (low , medium , high) : ").lower()
+    book = {
+        "book_name": book_name,
+        "priority": priority
+    }
 show_book(book) 
 save_books(book)
 

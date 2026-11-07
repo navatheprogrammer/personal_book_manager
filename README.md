@@ -54,7 +54,7 @@ personal_book_manager/
 python -m pip install -r requierments.txt
 ```
 
-## 🌺envioement setup
+## 🌺Envioement setup
 
 *create a `.env` file then create a `.env.example` file and use it as template to put in `your_admin_password_here` and switch with your admin password.*
 
