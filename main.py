@@ -18,7 +18,7 @@ if admin_mode == "yes":
 else:
     print("oh ok")
 
-amount = int(input("how many books do you want?: "))
+amount = int(input("tell me how many books do you want?: "))
 book = load_books()
 
 
