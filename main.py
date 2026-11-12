@@ -23,7 +23,7 @@ book = load_books()
 
 
 for i in range(amount):
-    book_name = input("🌺 enter a task: ")
+    book_name = input("🌺 enter a book ")
     priority = input("🌺 enter a priority (low , medium , high) : ").lower()
     book = {
         "book_name": book_name,

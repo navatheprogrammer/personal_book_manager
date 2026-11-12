@@ -12,6 +12,7 @@
 - your able to put more then one book
 - enter books
 - save book
+- asks for the priority (low, medium, high)
 
 
 ## 🌺Project Structure
