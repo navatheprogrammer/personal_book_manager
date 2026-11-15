@@ -1,7 +1,7 @@
 # 🌺Personal Book Manager🌺
 
 ## Description
-🌺*This is a small python project that saves the book you give it and will always remmeber your last books and what you already have*
+🌺*This is a small python project that saves the book you give it and will always remmeber your last books and what you already have and you amazing priority*
 
 ![Badge](https://img.shields.io/badge/python-3.13-pink
 )
