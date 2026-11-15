@@ -3,6 +3,7 @@ def show_book(book):
     for books in book:
         print(f"your book will be {books}")
         print(book["book_name"], "-", book["priority"])
+        print("all in all these are the books you have")
 
 def save_books(books):
     with open ("books.json", "w", encoding ="utf-8") as file:
