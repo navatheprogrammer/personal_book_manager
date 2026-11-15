@@ -5,7 +5,8 @@ load_dotenv()
 
 
 name = input("hi may i know your name pls: ")
-print(" hello", name, "welocome to personal book manager, have fun! ")
+
+print("Hello welcome to personal book manager dear ", name)
 
 
 admin_mode = input("would you like to enter admin mode? yes/no: ")
