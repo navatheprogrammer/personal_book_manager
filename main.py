@@ -30,7 +30,7 @@ for i in range(amount):
         "priority": priority
     }
 show_book(book) 
-print("book was added successfuly")
+print("book was added successfuly", book_name)
 save_books(book)
 
 
